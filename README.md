@@ -1,16 +1,13 @@
-## Hi there 👋
+# [CamilleDimayuga]
 
-<!--
-**CamilleDimayuga/CamilleDimayuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Name
+Camille Dimayuga
+## Education
+Bachelor of Science in Computer Technology
 
-Here are some ideas to get you started:
+## Certifications
+- SQL and Relational Databases 101 - Cognitive Class (https://courses.cognitiveclass.ai/certificates/8c946398bb384969ad87b15fe5b57bca)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skillsets
+- SQL, Java, 
+- Relational Databases, Cloud Computing (IBM Cloud, AWS)
